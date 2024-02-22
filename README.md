@@ -27,6 +27,6 @@ Brandy Nguyen, Poleth Acosta, Vinh Nguyen, Jason Chiu: Went over project, made d
 -What's for next?
 
 Brandy Nguyen, Poleth Acosta, Vinh Nguyen, Jason Chiu: Start the frontend 
-
+![Business Flow Chart](CPSC362 Diagram.drawio)
 ## Change after discussion
 - 
