@@ -1,5 +1,6 @@
 # CPSC362-Group-8: Task Management System
-
+## Group Members:
+### Poleth Acosta, Jason Chieu, Brandy Nguyen, Vinh Nguyen
 # Requirements
 -
 -
@@ -27,6 +28,6 @@ Brandy Nguyen, Poleth Acosta, Vinh Nguyen, Jason Chiu: Went over project, made d
 -What's for next?
 
 Brandy Nguyen, Poleth Acosta, Vinh Nguyen, Jason Chiu: Start the frontend 
-![Business Flow Chart](CPSC362 Diagram.drawio)
+![Business Flowchart](image.png)
 ## Change after discussion
 - 
