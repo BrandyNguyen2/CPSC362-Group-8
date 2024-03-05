@@ -2,8 +2,8 @@
 ## Group Members:
 ### Poleth Acosta, Jason Chieu, Brandy Nguyen, Vinh Nguyen
 # Requirements
--
--
+- Working front-end
+- 
 -
 ## Software Requirement Specifications
 - Home screen and then three columns - to do, doing, done
