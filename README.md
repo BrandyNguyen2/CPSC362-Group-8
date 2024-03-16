@@ -28,6 +28,16 @@ Brandy Nguyen, Poleth Acosta, Vinh Nguyen, Jason Chiu: Went over project, made d
 -What's for next?
 
 Brandy Nguyen, Poleth Acosta, Vinh Nguyen, Jason Chiu: Start the frontend 
+
+## Scrum update 15th March
+-Tasks Done:
+
+Brandy Nguyen, Poleth Acosta, Vinh Nguyen, Jason Chiu: update readME.md, started front and backend 
+
+-To Do:
+
+Finish backend and have both front and backend functional
+
 ![Business Flowchart](image.png)
 ## Change after discussion
 - 
