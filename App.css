@@ -1,0 +1,39 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  text-decoration: underline;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.board {
+  display: flex;
+  gap: 20px;
+}
+
+.column {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 200px;
+  height: 100vh; /* This will make the column as tall as the viewport */
+  overflow-y: auto; /* This will add a scrollbar if the content exceeds the column height */
+}
+
+.task {
+  border: 1px solid #ccc;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+body {
+  color: white;
+}
+
+body {
+  background-color: black;
+}
